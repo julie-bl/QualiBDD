@@ -922,6 +922,7 @@ categoriesData.forEach((item, idx) => {
         let pastille = [204, 204, 204]; 
         let questionName = radios[0] ? radios[0].name : '';
         let score = checked ? checked.getAttribute('data-score') : null;
+        let noteText = '';
 
         // Récupère le commentaire
         if (checked) {
@@ -943,11 +944,19 @@ categoriesData.forEach((item, idx) => {
             commentaire = "Question non répondue ou ne nécessitant pas de réponse dans votre cas";
         }
 
+        // Affichage de la note
+        if (checked) {
+            if (score === "na") noteText = "N/A";
+            else noteText = score + "/1";
+        } else {
+            noteText = "";
+        }
+
         detailRows.push([
             commentaire,
-            { content: '', styles: { fillColor: pastille } }
+            { content: noteText, styles: { fillColor: pastille, halign: 'center', fontStyle: 'bold' } }
         ]);
-    });
+ });
 
     // Calcule la hauteur estimée du bloc (titre + tableau)
     // Titre = 10mm, tableau = (nb lignes + 1) * 7mm (environ), + 5mm espace
