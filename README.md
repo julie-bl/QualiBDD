@@ -1,0 +1,3 @@
+This is a website coding a self-assessment questionnaire for quality management of a healthcare database to be shared for research purposes. The questionnaire was designed by a working group at the French Ministry of Higher Education, Research and Innovation and published on the on the website of [Open Science](https://www.ouvrirlascience.fr/questionnaire-dauto-evaluation-de-la-gestion-de-la-qualite-dune-base-de-donnees-en-sante-pour-le-partage-a-des-fins-de-recherche/). The aim of this questionnaire is to assess the quality of a database under different categories, with a view to its reuse.
+
+The code here is the html structure of the questionnaire, the visual aspect in CSS and all the interactive part (calculation, PDF generation, etc.) in JavaScript.
