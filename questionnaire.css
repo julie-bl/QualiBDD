@@ -104,7 +104,7 @@ input[type="radio"]:hover{
 }
 
 input[type="radio"]:checked {
-  border-color: #5f3c93;
+  border-color: red;
 }
 
 input[type="radio"]:checked::after {
