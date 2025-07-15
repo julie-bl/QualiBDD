@@ -1,3 +1,14 @@
-This is a website coding a self-assessment questionnaire for quality management of a healthcare database to be shared for research purposes. The questionnaire was designed by a working group at the French Ministry of Higher Education, Research and Innovation and published on the on the website of [Open Science](https://www.ouvrirlascience.fr/questionnaire-dauto-evaluation-de-la-gestion-de-la-qualite-dune-base-de-donnees-en-sante-pour-le-partage-a-des-fins-de-recherche/). The aim of this questionnaire is to assess the quality of a database under different categories, with a view to its reuse.
+Ce site web est un questionnaire d'auto-évaluation pour la gestion de la qualité d'une base de données de santé destinée à être partagée à des fins de recherche. Ce questionnaire a été conçu par un groupe de travail du ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation. Il vise à évaluer la qualité d'une base de données selon différentes catégories, en vue de sa réutilisation.
 
-The code here is the html structure of the questionnaire, the visual aspect in CSS and all the interactive part (calculation, PDF generation, etc.) in JavaScript.
+Vous pouvez dès à présent tester votre base de donnée en cliquant sur ce [lien](https://rawcdn.githack.com/chupverse/QualiBDD/25c9cb98ffa3cd91237b9791d8fc04fe59123343/questionnaire.html)
+
+
+
+Le code disponible est la structure html du questionnaire, l'aspect visuel en CSS et toute la partie interactive (calcul, génération PDF, etc.) en JavaScript.
+
+---
+
+<div align="center">
+  <img src="Images/logo_MESRI.png" alt="Logo MESRI" width="300" style="margin: 20px;">
+  <img src="Images/logo_ouvrir_science.png" alt="Logo Ouvrir la Science" width="300" style="margin: 20px;">
+</div>
