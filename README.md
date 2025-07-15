@@ -10,9 +10,9 @@ Le code disponible est la structure html du questionnaire, l'aspect visuel en CS
 
 <div align="center">
     <a href="https://www.ouvrirlascience.fr/accueil/" target="_blank" rel="noopener">
-    <img src="Images/logo_ouvrir_science.png" alt="Logo ouvrir la science" class="photo photo-so" width="120">
+    <img src="Images/logo_ouvrir_science.png" alt="Logo ouvrir la science" class="photo photo-so" width="200">
   </a>
   <a href="https://www.enseignementsup-recherche.gouv.fr/fr" target="_blank" rel="noopener">
-    <img src="Images/logo_MESRI.png" alt="Logo MESRI" class="photo photo-mesri" width="180">
+    <img src="Images/logo_MESRI.png" alt="Logo MESRI" class="photo photo-mesri" width="100">
   </a>
 </div>
