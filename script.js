@@ -1127,5 +1127,3 @@ document.querySelectorAll('.info-icon').forEach(icon => {
     }
   })
 );
-
-
