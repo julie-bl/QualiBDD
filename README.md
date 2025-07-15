@@ -8,11 +8,11 @@ Le code disponible est la structure html du questionnaire, l'aspect visuel en CS
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center">
     <a href="https://www.ouvrirlascience.fr/accueil/" target="_blank" rel="noopener">
-    <img src="Images/logo_ouvrir_science.png" alt="Logo ouvrir la science" class="photo photo-so" width="200">
+    <img src="Images/logo_ouvrir_science.png" alt="Logo ouvrir la science" class="photo photo-so" width="200" style="vertical-align: middle;">
   </a>
   <a href="https://www.enseignementsup-recherche.gouv.fr/fr" target="_blank" rel="noopener">
-    <img src="Images/logo_MESRI.png" alt="Logo MESRI" class="photo photo-mesri" width="130">
+    <img src="Images/logo_MESRI.png" alt="Logo MESRI" class="photo photo-mesri" width="130" style="vertical-align: middle;">
   </a>
 </div>
