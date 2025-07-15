@@ -13,6 +13,6 @@ Le code disponible est la structure html du questionnaire, l'aspect visuel en CS
     <img src="Images/logo_ouvrir_science.png" alt="Logo ouvrir la science" class="photo photo-so" width="200" style="vertical-align: middle;">
   </a>
   <a href="https://www.enseignementsup-recherche.gouv.fr/fr" target="_blank" rel="noopener">
-    <img src="Images/logo_MESRI.png" alt="Logo MESRI" class="photo photo-mesri" width="110" style="vertical-align: middle;">
+    <img src="Images/logo_MESRI.png" alt="Logo MESRI" class="photo photo-mesri" width="130" style="vertical-align: middle;">
   </a>
 </div>
