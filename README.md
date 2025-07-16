@@ -1,4 +1,5 @@
 Nous mettons à disposition un questionnaire d'auto-évaluation pour la gestion de la qualité d'une base de données en santé destinée à être partagée à des fins de recherche. Ce questionnaire a été conçu par un groupe de travail du Ministère en charge de l'Enseignement Supérieur et de la Recherche. Vous pouvez évaluer votre base de données en cliquant sur ce [lien](https://rawcdn.githack.com/chupverse/QualiBDD/25c9cb98ffa3cd91237b9791d8fc04fe59123343/questionnaire.html).
+
 ---
 
 <div align="center">
