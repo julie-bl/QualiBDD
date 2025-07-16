@@ -1,6 +1,6 @@
 Ce site web est un questionnaire d'auto-évaluation pour la gestion de la qualité d'une base de données de santé destinée à être partagée à des fins de recherche. Ce questionnaire a été conçu par un groupe de travail du ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation. Il vise à évaluer la qualité d'une base de données selon différentes catégories, en vue de sa réutilisation.
 
-Vous pouvez dès à présent tester votre base de donnée en cliquant sur ce [lien](https://rawcdn.githack.com/chupverse/QualiBDD/25c9cb98ffa3cd91237b9791d8fc04fe59123343/questionnaire.html).
+Vous pouvez dès à présent tester votre base de donnée en cliquant sur ce [lien](https://rawcdn.githack.com/julie-bl/QualiBDD/67b46d333f79f6c35e15168d228e9d4d91bfc1b0/questionnaire.html).
 
 
 
